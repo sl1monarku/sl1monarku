@@ -1,7 +1,8 @@
 - Hi, I'm John
 - I am learning how to code and be a web developer
-- ⚡ Fun fact: I love spgahetti
-- ;>
+- ⚡ Fun fact: I love spaghetti
+- Currently learning javascript...
+  
 
 <!---
 sl1monarku/sl1monarku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
