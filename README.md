@@ -1,7 +1,7 @@
 - Hi, I'm John
 - I am learning how to code and be a web developer
-- ⚡ Fun fact: I love spaghetti
-- Currently learning javascript...
+- I love spaghetti
+- Trying to finish TOP Foundations and catch up to my studies.
   
 
 <!---
