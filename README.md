@@ -1,5 +1,5 @@
 - Hi, I'm John
-- I am learning how to code and be a web developer
+- I am learning how to code
   
 
 <!---
